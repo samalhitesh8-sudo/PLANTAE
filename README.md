@@ -17,13 +17,13 @@ You'll need to have **Python 3.8 or newer** and **pip** installed.
 1.  Clone the repository from GitHub:
 
     ```bash
-    git clone [https://github.com/samalhitesh8-sudo/plant-disease-detection.git]
+    git clone [https://github.com/samalhitesh8-sudo/PLANTAE.git]
     ```
 
 2.  Navigate into the project directory:
 
     ```bash
-    cd PLANT
+    cd PLANTAE
     ```
 
 3.  Install all the required Python libraries using the `requirements.txt` file:
